@@ -234,13 +234,3 @@ def big_shoe_rebounds
 end
 
 big_shoe_rebounds
-
-#      if team_attribute == :players
-#        team_basic_info.each do |player, player_data|
-#          player_data.each do |player_attribute, player_attribute_data|
-#            if player_attribute == :shoe
-#              array << player_attribute_data
-#            end
-#          end
-#        end
-#      end
